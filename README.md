@@ -9,7 +9,7 @@
 # Game Snapshots
 
 ## Snapshot 1 - Start (green)
-![snapshot1](snapshots/snapshot1.png)
+![snapshot1](snapshot1.png)
 
 ## Snapshot 2 - Start (brown)
 ![snapshot2](snapshots/snapshot2.png)
